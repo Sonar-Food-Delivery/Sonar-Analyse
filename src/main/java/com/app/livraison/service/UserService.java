@@ -21,6 +21,13 @@ public class UserService {
     @Autowired
     private UserRepository userRepository;
 
+    // Constructeur avec injection de dépendances
+    @Autowired
+    public UserService(UserRepository userRepository, PasswordEncoder passwordEncoder) {
+        this.userRepository = userRepository;
+        this.passwordEncoder = passwordEncoder;
+    }
+
     public User signUp(User user) {
         if (userRepository.existsByEmail(user.getEmail())) {
             throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Email already exists");
