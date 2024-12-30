@@ -1,0 +1,5 @@
+com.app.livraison.controller.DeliveryController#createDelivery(Lcom/app/livraison/entities/Delivery;)Lcom/app/livraison/entities/Delivery;
+false
+59613d76c7ab880ea312bdd95d118dd8
+==
+saveDelivery com.app.livraison.service.DeliveryService#saveDelivery(Lcom/app/livraison/entities/Delivery;)Lcom/app/livraison/entities/Delivery;

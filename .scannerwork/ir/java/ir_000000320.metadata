@@ -1,0 +1,5 @@
+com.app.livraison.controller.DeliveryPersonController#createDeliveryPerson(Lcom/app/livraison/entities/DeliveryPerson;)Lcom/app/livraison/entities/DeliveryPerson;
+false
+f2126b364a7e41e7f1273fa52ee01d1e
+==
+saveDeliveryPerson com.app.livraison.service.DeliveryPersonService#saveDeliveryPerson(Lcom/app/livraison/entities/DeliveryPerson;)Lcom/app/livraison/entities/DeliveryPerson;

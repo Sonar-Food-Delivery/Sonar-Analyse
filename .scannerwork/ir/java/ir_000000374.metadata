@@ -1,0 +1,7 @@
+com.app.livraison.Controllers.MealControllerTest#testCreateMeal()V
+false
+d1bf71cad61be5b285f77dccef103616
+==
+!unknownMethod! !unknownMethod!
+createMeal com.app.livraison.controller.MealController#createMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;
+saveMeal com.app.livraison.service.MealService#saveMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;

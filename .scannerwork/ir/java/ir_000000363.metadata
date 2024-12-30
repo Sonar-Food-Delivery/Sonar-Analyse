@@ -1,0 +1,8 @@
+com.app.livraison.services.MealServiceTest#testGetAllMeals()V
+false
+f18bc2359571db99352044137d768295
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+getAllMeals com.app.livraison.service.MealService#getAllMeals()Ljava/util/List;
+size java.util.List#size()I

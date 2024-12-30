@@ -1,0 +1,8 @@
+com.app.livraison.entities.OrderTest#testOrderEquality()V
+false
+344a9f3af2b444bbaa500edb42e64dfc
+com.app.livraison.entities.Order#<init>()V
+com.app.livraison.entities.Order#instance-init#
+==
+!unknownMethod! !unknownMethod!
+hashCode java.lang.Object#hashCode()I

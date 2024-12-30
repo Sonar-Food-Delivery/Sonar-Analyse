@@ -1,0 +1,6 @@
+com.app.livraison.controller.CategoryController#getRestaurantsByCategory(Ljava/lang/Long;)LResponseEntity;
+false
+10397c6b5f12a8627d13efe5145fed96
+==
+!unknownMethod! !unknownMethod!
+getRestaurantsByCategoryId com.app.livraison.service.CategoryService#getRestaurantsByCategoryId(Ljava/lang/Long;)Ljava/util/List;

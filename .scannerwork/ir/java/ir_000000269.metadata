@@ -1,0 +1,8 @@
+com.app.livraison.services.RestaurantServiceTest#testGetAllRestaurants()V
+false
+bc93ace564e49ab3d9ea5befc821793f
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+getAllRestaurants com.app.livraison.service.RestaurantService#getAllRestaurants()Ljava/util/List;
+size java.util.List#size()I

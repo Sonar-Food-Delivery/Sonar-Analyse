@@ -1,0 +1,5 @@
+com.app.livraison.controller.CategoryController#getAllCategories()LResponseEntity;
+false
+8b3ff8b189ad741608a81adc9b6d0a7e
+==
+getAllCategories com.app.livraison.service.CategoryService#getAllCategories()Ljava/util/List;

@@ -1,0 +1,7 @@
+com.app.livraison.entities.MealTest#testMealToString()V
+false
+2eee904f96160a7bc6e9bbc87bf67b73
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+==
+!unknownMethod! !unknownMethod!
+toString java.lang.Object#toString()Ljava/lang/String;

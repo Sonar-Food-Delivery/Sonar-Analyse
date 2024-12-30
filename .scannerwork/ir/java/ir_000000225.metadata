@@ -1,0 +1,7 @@
+com.app.livraison.services.UserServiceTest#testFindById_Success()V
+false
+d3f383de13cb8c2c223ecaa34ea24628
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+findById com.app.livraison.service.UserService#findById(Ljava/lang/Long;)Lcom/app/livraison/entities/User;

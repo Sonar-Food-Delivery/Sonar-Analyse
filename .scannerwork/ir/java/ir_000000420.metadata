@@ -1,0 +1,5 @@
+com.app.livraison.controller.DeliveryController#getAllDeliveries()Ljava/util/List;
+false
+555b9d31a3c31245b1df2f4a6adc5bae
+==
+getAllDeliveries com.app.livraison.service.DeliveryService#getAllDeliveries()Ljava/util/List;

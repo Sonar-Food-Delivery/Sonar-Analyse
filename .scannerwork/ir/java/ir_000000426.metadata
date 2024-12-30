@@ -1,0 +1,12 @@
+com.app.livraison.entities.MealTest#setUp()V
+false
+5b9fbf7af3ddc831948bc4428189c052
+com.app.livraison.entities.Category#<init>()V
+com.app.livraison.entities.Category#instance-init#
+com.app.livraison.entities.Meal#<init>()V
+com.app.livraison.entities.Meal#instance-init#
+com.app.livraison.entities.Restaurant#<init>()V
+com.app.livraison.entities.Restaurant#instance-init#
+java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!

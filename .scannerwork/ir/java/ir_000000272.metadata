@@ -1,0 +1,6 @@
+com.app.livraison.services.RestaurantServiceTest#testSaveRestaurant()V
+false
+fe3d458606bb3e575ab952620d844824
+==
+!unknownMethod! !unknownMethod!
+saveRestaurant com.app.livraison.service.RestaurantService#saveRestaurant(Lcom/app/livraison/entities/Restaurant;)Lcom/app/livraison/entities/Restaurant;

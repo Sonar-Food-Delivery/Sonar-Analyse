@@ -1,0 +1,10 @@
+com.app.livraison.Controllers.RestaurantControllerTest#testGetAllRestaurants()V
+false
+dfda2910d41b1edd4b6562aec29b4b32
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+get java.util.List#get(I)Ljava/lang/Object;
+getAllRestaurants com.app.livraison.controller.RestaurantController#getAllRestaurants()LResponseEntity;
+getAllRestaurants com.app.livraison.service.RestaurantService#getAllRestaurants()Ljava/util/List;
+isEmpty java.util.List#isEmpty()Z

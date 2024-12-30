@@ -1,0 +1,8 @@
+com.app.livraison.entities.UserTest#testUserEquality()V
+false
+141ee596e67a53f9c5ade2e2928270eb
+com.app.livraison.entities.User#<init>()V
+com.app.livraison.entities.User#instance-init#
+==
+!unknownMethod! !unknownMethod!
+hashCode java.lang.Object#hashCode()I

@@ -1,0 +1,9 @@
+com.app.livraison.service.MyUserDetailService#loadUserByUsername(Ljava/lang/String;)LUserDetails;
+false
+06d7545ec87fd9388cd8ac143634ee13
+com.app.livraison.service.MyUserDetailService#getRole(Lcom/app/livraison/entities/User;)[Ljava/lang/String;
+java.util.Optional#get()Ljava/lang/Object;
+java.util.Optional#isPresent()Z
+==
+!unknownMethod! !unknownMethod!
+findByUsername com.app.livraison.repositorie.UserRepository#findByUsername(Ljava/lang/String;)Ljava/util/Optional;

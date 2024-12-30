@@ -1,0 +1,16 @@
+
+mcom.app.livraison.service.CommentService#getCommentById(Ljava/lang/Long;)Lcom/app/livraison/entities/Comment;Å
+wC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/CommentService.java (!"1*œ
+1 ( ´
+®
+ ( 5
+%0/com.app.livraison.repositorie.CommentRepository"__id*_
+
+__unknown_file (C*A*
+(com.app.livraison.service.CommentService"
+commentRepository"
+ (;
+"": 
+" ()
+idjava.lang.LongB,*
+(com.app.livraison.service.CommentServiceH

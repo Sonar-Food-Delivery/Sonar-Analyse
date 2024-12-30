@@ -1,0 +1,5 @@
+com.app.livraison.controller.CategoryController#createCategory(Lcom/app/livraison/entities/Category;)LResponseEntity;
+false
+fb35a12af609d6f052dc30d46e72759b
+==
+addCategoryWithMeals com.app.livraison.service.CategoryService#addCategoryWithMeals(Lcom/app/livraison/entities/Category;)Lcom/app/livraison/entities/Category;

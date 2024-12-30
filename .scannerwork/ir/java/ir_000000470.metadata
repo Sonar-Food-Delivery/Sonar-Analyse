@@ -1,0 +1,8 @@
+com.app.livraison.Controllers.RestaurantControllerTest#testGetRestaurantById_NotFound()V
+false
+0e99abc388c729fd0502b8db5819dbaf
+java.util.Optional#empty()Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+getRestaurantById com.app.livraison.controller.RestaurantController#getRestaurantById(Ljava/lang/Long;)LResponseEntity;
+getRestaurantById com.app.livraison.service.RestaurantService#getRestaurantById(Ljava/lang/Long;)Ljava/util/Optional;

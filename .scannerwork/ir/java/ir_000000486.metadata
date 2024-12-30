@@ -1,0 +1,5 @@
+com.app.livraison.service.CategoryService#getCategoriesWithMeals()Ljava/util/List;
+false
+568210d07852bacffccebe0b50bbc077
+==
+findCategoriesWithMeals com.app.livraison.repositorie.CategoryRepository#findCategoriesWithMeals()Ljava/util/List;

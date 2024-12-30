@@ -1,0 +1,8 @@
+com.app.livraison.service.JwtService#isValidToken(Ljava/lang/String;LUserDetails;)Ljava/lang/Boolean;
+false
+7464499f834036ab7569d404e37b96be
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+!unknownMethod! !unknownMethod!
+extractUsername com.app.livraison.service.JwtService#extractUsername(Ljava/lang/String;)Ljava/lang/String;
+isTokenExpired com.app.livraison.service.JwtService#isTokenExpired(Ljava/lang/String;)Ljava/lang/Boolean;

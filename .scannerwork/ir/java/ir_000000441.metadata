@@ -1,0 +1,6 @@
+com.app.livraison.service.UserService#signUp(Lcom/app/livraison/entities/User;)Lcom/app/livraison/entities/User;
+false
+81d974c51f88f5c2ad64ea3b07059734
+==
+!unknownMethod! !unknownMethod!
+existsByEmail com.app.livraison.repositorie.UserRepository#existsByEmail(Ljava/lang/String;)Z

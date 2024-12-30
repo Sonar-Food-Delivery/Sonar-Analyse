@@ -1,0 +1,7 @@
+com.app.livraison.Controllers.UserControllerTest#testSignUp()V
+false
+ae331f6fc350c48fbbec272cb9d48677
+==
+!unknownMethod! !unknownMethod!
+signUp com.app.livraison.controller.UserController#signUp(Lcom/app/livraison/entities/User;)LResponseEntity;
+signUp com.app.livraison.service.UserService#signUp(Lcom/app/livraison/entities/User;)Lcom/app/livraison/entities/User;

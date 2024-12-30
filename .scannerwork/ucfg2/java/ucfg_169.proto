@@ -1,0 +1,87 @@
+
+äcom.app.livraison.service.CategoryService#addCategoryWithMeals(Lcom/app/livraison/entities/Category;)Lcom/app/livraison/entities/Category;Ç
+xC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/CategoryService.java (("5*ñ
+2 (_
+]
+ ('
+mealcom.app.livraison.entities.Meal"__id*"
+
+__unknown_file (
+""ù
+ö
+ ('
+mealcom.app.livraison.entities.Meal"
+__arrayGet*5
+
+__unknown_file (
+
+mealsjava.util.List*"
+
+__unknown_file (
+""*
+3
+1*Á
+3* (8¶
+£
+* (82
+%0,com.app.livraison.repositorie.MealRepository"__id*]
+
+__unknown_file (A*?+
+)com.app.livraison.service.CategoryService"
+mealRepositoryZ
+X
+ (P"
+existingMealjava.util.Optional"__id*"
+
+__unknown_file (
+""†
+ù
+# (?!
+%1java.util.function.Consumer"__declareFunction*[
+
+__unknown_file (?=
+;__sonar_lambda_19$com.app.livraison.service.CategoryService£
+†
+
+__unknown_file (/
+!
+%1java.util.function.Consumer"
+
+category"__id*M
+
+__unknown_file (1
+/
+category#com.app.livraison.entities.CategoryÑÅ
+ (@
+
+%2void"<java.util.Optional#ifPresent(Ljava/util/function/Consumer;)V*@
+
+__unknown_file ($
+"
+existingMealjava.util.Optional*?
+
+__unknown_file (#
+!
+%1java.util.function.Consumer2(ifPresent(Ljava/util/function/Consumer;)*
+2*c
+5 (#O
+M
+ (/
+mealsjava.util.List"__id*"
+
+__unknown_file (
+""*
+2*“
+1# #(!Æ
+´
+# #(!6
+%30com.app.livraison.repositorie.CategoryRepository"__id*a
+
+__unknown_file (E*C+
+)com.app.livraison.service.CategoryService"
+categoryRepository"
+# #(1
+"":;
+) (:/
+category#com.app.livraison.entities.CategoryB-+
+)com.app.livraison.service.CategoryServiceH

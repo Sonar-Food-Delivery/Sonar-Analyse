@@ -1,0 +1,21 @@
+
+Icom.app.livraison.controller.UserController#getAllUsers()Ljava/util/List;„
+zC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/UserController.java: :(!"1*—
+1; ;(ž
+›
+; ;(+
+%0%com.app.livraison.service.UserService"__id*\
+
+__unknown_file (@*>-
++com.app.livraison.controller.UserController"
+userServiceÂ¿
+; ;((
+%1java.util.List"Ccom.app.livraison.service.UserService#getAllUsers()Ljava/util/List;*I
+
+__unknown_file (-
++
+%0%com.app.livraison.service.UserService2getAllUsers()""
+; ;()
+
+%1java.util.ListB/-
++com.app.livraison.controller.UserControllerH

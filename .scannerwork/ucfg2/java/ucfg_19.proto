@@ -1,0 +1,21 @@
+
+Ocom.app.livraison.controller.CommentController#getAllComments()Ljava/util/List;‡
+}C:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/CommentController.java ('"1*¬
+1 (§
+¤
+ (.
+%0(com.app.livraison.service.CommentService"__id*b
+
+__unknown_file (F*D0
+.com.app.livraison.controller.CommentController"
+commentServiceÎË
+ (.
+%1java.util.List"Icom.app.livraison.service.CommentService#getAllComments()Ljava/util/List;*L
+
+__unknown_file (0
+.
+%0(com.app.livraison.service.CommentService2getAllComments()""
+ (/
+
+%1java.util.ListB20
+.com.app.livraison.controller.CommentControllerH

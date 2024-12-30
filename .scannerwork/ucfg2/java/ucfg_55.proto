@@ -1,0 +1,24 @@
+
+Mcom.app.livraison.service.OrderService#generateTrackingId()Ljava/lang/String;
+uC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/OrderService.javaJ J(%"1*…
+1K K(q
+o
+K K(1
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.System]
+[
+K K(1
+%1java.lang.String"__concat*
+K K(
+TRK*
+K K(1
+
+
+%0long"$
+K K(2
+
+%1java.lang.StringB*(
+&com.app.livraison.service.OrderService

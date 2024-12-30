@@ -1,0 +1,7 @@
+organization=rafiqg5
+projectKey=food-deliveryV3
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58741
+dashboardUrl=https://sonarcloud.io/dashboard?id=food-deliveryV3
+ceTaskId=AZQXtahcodsZuHD324ur
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZQXtahcodsZuHD324ur

@@ -1,0 +1,5 @@
+com.app.livraison.controller.MealController#getAllMeals()Ljava/util/List;
+false
+7c3db2a86fe84443f6460ababf5d5383
+==
+getAllMeals com.app.livraison.service.MealService#getAllMeals()Ljava/util/List;

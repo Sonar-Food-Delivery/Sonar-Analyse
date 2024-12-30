@@ -1,0 +1,62 @@
+
+zcom.app.livraison.controller.MealController#createMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;„
+zC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/MealController.java ("startingBlock*Ù
+startingBlock (2“
+
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*E
+
+__unknown_file ()
+'
+mealcom.app.livraison.entities.Meal“
+
+ ('
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*E
+
+__unknown_file ()
+'
+mealcom.app.livraison.entities.MealŒ
+‰
+- (1'
+mealcom.app.livraison.entities.Meal"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*Í
+1 (ž
+›
+ (+
+%0%com.app.livraison.service.MealService"__id*\
+
+__unknown_file (@*>-
++com.app.livraison.controller.MealController"
+mealServiceçä
+ ()%
+%1com.app.livraison.entities.Meal"rcom.app.livraison.service.MealService#saveMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;*I
+
+__unknown_file (-
++
+%0%com.app.livraison.service.MealService*E
+
+__unknown_file ()
+'
+mealcom.app.livraison.entities.Meal2+saveMeal(Lcom/app/livraison/entities/Meal;)"3
+ (*'
+%
+%1com.app.livraison.entities.Meal:3
+ (1'
+mealcom.app.livraison.entities.MealB/-
++com.app.livraison.controller.MealControllerH

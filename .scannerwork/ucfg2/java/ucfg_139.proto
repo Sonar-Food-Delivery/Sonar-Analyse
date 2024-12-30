@@ -1,0 +1,48 @@
+
+‡com.app.livraison.service.UserService#updateProfile(Ljava/lang/Long;Lcom/app/livraison/entities/User;)Lcom/app/livraison/entities/User;~
+tC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/UserService.java? ?("4*û
+4@ @(*¢
+Ÿ
+@ @(*2
+%0,com.app.livraison.repositorie.UserRepository"__id*Y
+
+__unknown_file (=*;'
+%com.app.livraison.service.UserService"
+userRepository~
+|
+A A(f
+%1"__declareFunction*W
+
+__unknown_file (;9
+7__sonar_lambda_14$com.app.livraison.service.UserServiceg
+e
+@ A(h/
+existingUsercom.app.livraison.entities.User"__id*"
+
+__unknown_file (
+""Y
+W
+G G(&
+%2"	__compare*
+G G(!
+!=*
+G G(
+""*
+G" G(&
+""*
+1*Æ
+1K K(¢
+Ÿ
+K K(2
+%3,com.app.livraison.repositorie.UserRepository"__id*Y
+
+__unknown_file (=*;'
+%com.app.livraison.service.UserService"
+userRepository"
+K K(1
+"": 
+? ?(&
+idjava.lang.Long:3
+?' ?(0'
+usercom.app.livraison.entities.UserB)'
+%com.app.livraison.service.UserServiceH

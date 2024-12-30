@@ -1,0 +1,21 @@
+
+Kcom.app.livraison.controller.OrderController#getAllOrders()Ljava/util/List;…
+{C:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/OrderController.java (#"1*ž
+1 (¡
+ž
+ (,
+%0&com.app.livraison.service.OrderService"__id*^
+
+__unknown_file (B*@.
+,com.app.livraison.controller.OrderController"
+orderServiceÆÃ
+ (*
+%1java.util.List"Ecom.app.livraison.service.OrderService#getAllOrders()Ljava/util/List;*J
+
+__unknown_file (.
+,
+%0&com.app.livraison.service.OrderService2getAllOrders()""
+ (+
+
+%1java.util.ListB0.
+,com.app.livraison.controller.OrderControllerH

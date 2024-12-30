@@ -1,0 +1,63 @@
+
+jcom.app.livraison.controller.MealController#getMealById(Ljava/lang/Long;)Lcom/app/livraison/entities/Meal;„
+zC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/MealController.java ("startingBlock*›
+startingBlock (2~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+ ()
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+/ (1
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ž
+1 (ž
+›
+ (+
+%0%com.app.livraison.service.MealService"__id*\
+
+__unknown_file (@*>-
++com.app.livraison.controller.MealController"
+mealService¸µ
+ (*%
+%1com.app.livraison.entities.Meal"dcom.app.livraison.service.MealService#getMealById(Ljava/lang/Long;)Lcom/app/livraison/entities/Meal;*I
+
+__unknown_file (-
++
+%0%com.app.livraison.service.MealService*2
+
+__unknown_file (
+
+idjava.lang.Long2getMealById(Ljava/lang/Long;)"3
+ (+'
+%
+%1com.app.livraison.entities.Meal: 
+ (1
+idjava.lang.LongB/-
++com.app.livraison.controller.MealControllerH

@@ -1,0 +1,9 @@
+com.app.livraison.services.UserServiceTest#setUp()V
+false
+b06e66fb8556aec6bfa1528dfb93be0b
+com.app.livraison.entities.User#<init>()V
+com.app.livraison.entities.User#instance-init#
+com.app.livraison.service.UserService#<init>(Lcom/app/livraison/repositorie/UserRepository;LPasswordEncoder;)V
+com.app.livraison.service.UserService#instance-init#
+==
+!unknownMethod! !unknownMethod!

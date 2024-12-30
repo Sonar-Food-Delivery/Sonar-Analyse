@@ -1,0 +1,9 @@
+com.app.livraison.service.JwtService#generateToken(Lcom/app/livraison/entities/User;)Ljava/lang/String;
+false
+fea0d74e9e080a0a7c8b5ca99b7b71c2
+com.app.livraison.service.JwtService#getSigningKey()Ljavax/crypto/SecretKey;
+java.lang.System#currentTimeMillis()J
+java.util.Date#<init>(J)V
+java.util.Date#instance-init#
+==
+!unknownMethod! !unknownMethod!

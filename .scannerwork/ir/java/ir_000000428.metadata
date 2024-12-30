@@ -1,0 +1,8 @@
+com.app.livraison.entities.MealTest#testMealWithOrders()V
+false
+bfc12b67d3c2cf02b5824f1681c84a0a
+com.app.livraison.entities.Order#<init>()V
+com.app.livraison.entities.Order#instance-init#
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!

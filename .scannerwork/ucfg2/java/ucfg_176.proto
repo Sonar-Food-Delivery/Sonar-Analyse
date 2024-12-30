@@ -1,0 +1,17 @@
+
+šcom.app.livraison.service.DeliveryPersonService#saveDeliveryPerson(Lcom/app/livraison/entities/DeliveryPerson;)Lcom/app/livraison/entities/DeliveryPerson;ˆ
+~C:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/DeliveryPersonService.java (,"1*Ö
+1 (²
+¯
+ (<
+%06com.app.livraison.repositorie.DeliveryPersonRepository"__id*_
+
+__unknown_file (C*A1
+/com.app.livraison.service.DeliveryPersonService"
+
+repository"
+ (/
+"":G
+- (J;
+deliveryPerson)com.app.livraison.entities.DeliveryPersonB31
+/com.app.livraison.service.DeliveryPersonServiceH

@@ -1,0 +1,7 @@
+com.app.livraison.service.UserService#login(Ljava/lang/String;Ljava/lang/String;)Lcom/app/livraison/entities/User;
+false
+a3165ab7eaf71d932a91de6d48356395
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+!unknownMethod! !unknownMethod!
+findByEmail com.app.livraison.repositorie.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;

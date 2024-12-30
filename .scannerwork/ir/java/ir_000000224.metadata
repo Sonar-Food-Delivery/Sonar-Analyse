@@ -1,0 +1,6 @@
+com.app.livraison.services.UserServiceTest#testSignUp_EmailAlreadyExists()V
+false
+bd18fd6988f682de2feb8da19f1484b3
+==
+!unknownMethod! !unknownMethod!
+existsByEmail com.app.livraison.repositorie.UserRepository#existsByEmail(Ljava/lang/String;)Z

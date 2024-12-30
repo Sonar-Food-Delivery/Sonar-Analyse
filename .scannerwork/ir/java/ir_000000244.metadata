@@ -1,0 +1,5 @@
+com.app.livraison.controller.CommentController#getCommentById(Ljava/lang/Long;)Lcom/app/livraison/entities/Comment;
+false
+6ac711e8813ffedf8d592de9b794a6ab
+==
+getCommentById com.app.livraison.service.CommentService#getCommentById(Ljava/lang/Long;)Lcom/app/livraison/entities/Comment;

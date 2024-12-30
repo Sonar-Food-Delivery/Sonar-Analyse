@@ -1,0 +1,5 @@
+com.app.livraison.service.DeliveryPersonService#getDeliveryPersonByEmail(Ljava/lang/String;)Lcom/app/livraison/entities/DeliveryPerson;
+false
+dc3653e431a4022b9fa6d5ff846aa662
+==
+findByEmail com.app.livraison.repositorie.DeliveryPersonRepository#findByEmail(Ljava/lang/String;)Lcom/app/livraison/entities/DeliveryPerson;

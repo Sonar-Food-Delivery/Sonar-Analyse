@@ -1,0 +1,7 @@
+com.app.livraison.controller.CategoryController#getCategoryById(Ljava/lang/Long;)LResponseEntity;
+false
+7bf58dc1aae7d8b098c7b8b9320685f5
+java.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+==
+getCategoryById com.app.livraison.service.CategoryService#getCategoryById(Ljava/lang/Long;)Ljava/util/Optional;

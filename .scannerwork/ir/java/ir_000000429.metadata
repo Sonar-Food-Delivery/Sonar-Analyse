@@ -1,0 +1,9 @@
+com.app.livraison.entities.MealTest#testMealEqualityAndHashCode()V
+false
+943b1b832cb81d9689cb32ab56e20780
+com.app.livraison.entities.Meal#<init>()V
+com.app.livraison.entities.Meal#instance-init#
+java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+hashCode java.lang.Object#hashCode()I

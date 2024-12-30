@@ -1,0 +1,63 @@
+
+rcom.app.livraison.controller.DeliveryPersonController#getOrdersForDeliveryPerson(Ljava/lang/Long;)Ljava/util/List;è
+ÑC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/DeliveryPersonController.java (4"startingBlock*õ
+startingBlock4 (K~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.LongÄ
+~
+5 (B
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+H (J
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*≠
+1   (Æ
+´
+   (5
+%0/com.app.livraison.service.DeliveryPersonService"__id*b
+
+__unknown_file (F*D7
+5com.app.livraison.controller.DeliveryPersonController"	
+service»≈
+   (5
+%1java.util.List"lcom.app.livraison.service.DeliveryPersonService#getOrdersForDeliveryPerson(Ljava/lang/Long;)Ljava/util/List;*S
+
+__unknown_file (7
+5
+%0/com.app.livraison.service.DeliveryPersonService*2
+
+__unknown_file (
+
+idjava.lang.Long2,getOrdersForDeliveryPerson(Ljava/lang/Long;)""
+   (6
+
+%1java.util.List: 
+5 (J
+idjava.lang.LongB97
+5com.app.livraison.controller.DeliveryPersonControllerH

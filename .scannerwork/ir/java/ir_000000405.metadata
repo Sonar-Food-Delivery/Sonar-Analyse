@@ -1,0 +1,6 @@
+com.app.livraison.service.JwtService#extractRole(Ljava/lang/String;)Ljava/lang/String;
+false
+9f04a0e8b412c51d17f6de6ffd587e55
+==
+!unknownMethod! !unknownMethod!
+extractAllClaims com.app.livraison.service.JwtService#extractAllClaims(Ljava/lang/String;)LClaims;

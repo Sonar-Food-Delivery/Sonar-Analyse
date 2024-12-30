@@ -1,0 +1,21 @@
+
+]com.app.livraison.controller.DeliveryPersonController#getAllDeliveryPersons()Ljava/util/List;è
+ÑC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/DeliveryPersonController.java  (5"1*œ
+1 (Æ
+´
+ (5
+%0/com.app.livraison.service.DeliveryPersonService"__id*b
+
+__unknown_file (F*D7
+5com.app.livraison.controller.DeliveryPersonController"	
+serviceÍÁ
+ (.
+%1java.util.List"Wcom.app.livraison.service.DeliveryPersonService#getAllDeliveryPersons()Ljava/util/List;*S
+
+__unknown_file (7
+5
+%0/com.app.livraison.service.DeliveryPersonService2getAllDeliveryPersons()""
+ (/
+
+%1java.util.ListB97
+5com.app.livraison.controller.DeliveryPersonControllerH

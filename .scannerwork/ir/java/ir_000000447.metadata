@@ -1,0 +1,6 @@
+com.app.livraison.service.UserService#findByEmail(Ljava/lang/String;)Lcom/app/livraison/entities/User;
+false
+5f15ef188a9e8c5a78f72b1141d2ab09
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+findByEmail com.app.livraison.repositorie.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;

@@ -1,0 +1,8 @@
+com.app.livraison.entities.RestaurantTest#testRestaurantEquality()V
+false
+fc0618ea076bb9e47d050f8a9e4664c2
+com.app.livraison.entities.Restaurant#<init>()V
+com.app.livraison.entities.Restaurant#instance-init#
+==
+!unknownMethod! !unknownMethod!
+hashCode java.lang.Object#hashCode()I

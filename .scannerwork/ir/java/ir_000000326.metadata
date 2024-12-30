@@ -1,0 +1,8 @@
+com.app.livraison.controller.UserController#updateProfile(Ljava/lang/Long;Lcom/app/livraison/entities/User;)LResponseEntity;
+false
+f3b0517d5f15df3cb11bad435b4da63d
+java.util.Map#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/Map;
+==
+!unknownMethod! !unknownMethod!
+generateToken com.app.livraison.service.JwtService#generateToken(Lcom/app/livraison/entities/User;)Ljava/lang/String;
+updateProfile com.app.livraison.service.UserService#updateProfile(Ljava/lang/Long;Lcom/app/livraison/entities/User;)Lcom/app/livraison/entities/User;

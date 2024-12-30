@@ -1,0 +1,22 @@
+
+ecom.app.livraison.service.UserService#findUserById(Ljava/lang/Long;)Lcom/app/livraison/entities/User;~
+tC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/UserService.java[ [("1*Æ
+1\ \(¢
+Ÿ
+\ \(2
+%0,com.app.livraison.repositorie.UserRepository"__id*Y
+
+__unknown_file (=*;'
+%com.app.livraison.service.UserService"
+userRepository~
+|
+] ](f
+%1"__declareFunction*W
+
+__unknown_file (;9
+7__sonar_lambda_16$com.app.livraison.service.UserService"
+\ ](h
+"": 
+[ [($
+idjava.lang.LongB)'
+%com.app.livraison.service.UserServiceH

@@ -1,0 +1,14 @@
+
+Ecom.app.livraison.service.OrderService#getAllOrders()Ljava/util/List;
+uC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/OrderService.java (#"1*É
+1 (¥
+¢
+ (3
+%0-com.app.livraison.repositorie.OrderRepository"__id*[
+
+__unknown_file (?*=(
+&com.app.livraison.service.OrderService"
+orderRepository"
+ ()
+""B*(
+&com.app.livraison.service.OrderServiceH

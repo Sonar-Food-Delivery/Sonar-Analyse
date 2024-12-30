@@ -1,0 +1,5 @@
+com.app.livraison.controller.CommentController#getAllComments()Ljava/util/List;
+false
+ddd9129188e5b6ff6b48eac8d34fb8f2
+==
+getAllComments com.app.livraison.service.CommentService#getAllComments()Ljava/util/List;

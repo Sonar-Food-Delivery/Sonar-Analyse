@@ -1,0 +1,14 @@
+com.app.livraison.entities.OrderTest#setUp()V
+false
+1a618e9b941994d5c21b7850c757d5b0
+com.app.livraison.entities.Meal#<init>()V
+com.app.livraison.entities.Meal#instance-init#
+com.app.livraison.entities.Order#<init>()V
+com.app.livraison.entities.Order#instance-init#
+com.app.livraison.entities.User#<init>()V
+com.app.livraison.entities.User#instance-init#
+java.util.Date#<init>()V
+java.util.Date#instance-init#
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!

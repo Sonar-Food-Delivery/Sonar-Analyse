@@ -1,0 +1,16 @@
+
+rcom.app.livraison.service.MealService#saveMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;~
+tC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/MealService.java ("1*Æ
+1 (¢
+Ÿ
+ (2
+%0,com.app.livraison.repositorie.MealRepository"__id*Y
+
+__unknown_file (=*;'
+%com.app.livraison.service.MealService"
+mealRepository"
+ ()
+"":3
+ ("'
+mealcom.app.livraison.entities.MealB)'
+%com.app.livraison.service.MealServiceH

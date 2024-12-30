@@ -1,0 +1,21 @@
+
+Rcom.app.livraison.service.CategoryService#getCategoriesWithMeals()Ljava/util/List;‚
+xC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/CategoryService.java3 3(0"1*Õ
+14 4(!®
+«
+4 4(!6
+%00com.app.livraison.repositorie.CategoryRepository"__id*a
+
+__unknown_file (E*C+
+)com.app.livraison.service.CategoryService"
+categoryRepositoryðí
+4 4(;
+%1java.util.List"Zcom.app.livraison.repositorie.CategoryRepository#findCategoriesWithMeals()Ljava/util/List;*T
+
+__unknown_file (8
+6
+%00com.app.livraison.repositorie.CategoryRepository2findCategoriesWithMeals()""
+4 4(<
+
+%1java.util.ListB-+
+)com.app.livraison.service.CategoryServiceH

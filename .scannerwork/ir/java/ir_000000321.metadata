@@ -1,0 +1,9 @@
+com.app.livraison.controller.DeliveryPersonController#login(Ljava/util/Map;)LResponseEntity;
+false
+7a5b262528b2b3bab177826475f86500
+java.util.Map#of(Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/Map;
+java.util.Map#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/Map;
+==
+!unknownMethod! !unknownMethod!
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;
+getDeliveryPersonByEmail com.app.livraison.service.DeliveryPersonService#getDeliveryPersonByEmail(Ljava/lang/String;)Lcom/app/livraison/entities/DeliveryPerson;

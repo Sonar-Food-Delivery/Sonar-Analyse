@@ -1,0 +1,10 @@
+com.app.livraison.Controllers.OrderControllerTest#testGetAllOrders()V
+false
+95b05080afac70e7f82a1fcd36f4c74b
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+getAllOrders com.app.livraison.controller.OrderController#getAllOrders()Ljava/util/List;
+getAllOrders com.app.livraison.service.OrderService#getAllOrders()Ljava/util/List;
+isEmpty java.util.List#isEmpty()Z
+size java.util.List#size()I

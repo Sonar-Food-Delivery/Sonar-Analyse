@@ -1,0 +1,5 @@
+com.app.livraison.controller.MealController#createMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;
+false
+d22cfab40a9d2336ffe95825f1560c3e
+==
+saveMeal com.app.livraison.service.MealService#saveMeal(Lcom/app/livraison/entities/Meal;)Lcom/app/livraison/entities/Meal;

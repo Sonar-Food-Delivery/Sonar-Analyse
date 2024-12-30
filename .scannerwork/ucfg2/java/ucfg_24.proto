@@ -1,0 +1,63 @@
+
+mcom.app.livraison.controller.OrderController#getOrderById(Ljava/lang/Long;)Lcom/app/livraison/entities/Order;…
+{C:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/OrderController.java ("startingBlock*›
+startingBlock (4~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+ (+
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+1 (3
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*¨
+1 (¡
+ž
+ (,
+%0&com.app.livraison.service.OrderService"__id*^
+
+__unknown_file (B*@.
+,com.app.livraison.controller.OrderController"
+orderService¾»
+ (,&
+%1 com.app.livraison.entities.Order"gcom.app.livraison.service.OrderService#getOrderById(Ljava/lang/Long;)Lcom/app/livraison/entities/Order;*J
+
+__unknown_file (.
+,
+%0&com.app.livraison.service.OrderService*2
+
+__unknown_file (
+
+idjava.lang.Long2getOrderById(Ljava/lang/Long;)"4
+ (-(
+&
+%1 com.app.livraison.entities.Order: 
+ (3
+idjava.lang.LongB0.
+,com.app.livraison.controller.OrderControllerH

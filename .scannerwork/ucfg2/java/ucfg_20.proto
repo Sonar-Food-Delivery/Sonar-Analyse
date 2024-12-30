@@ -1,0 +1,63 @@
+
+scom.app.livraison.controller.CommentController#getCommentById(Ljava/lang/Long;)Lcom/app/livraison/entities/Comment;‡
+}C:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/controller/CommentController.java (!"startingBlock*›
+startingBlock! (8~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+" (/
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+5 (7
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*¼
+1 (§
+¤
+ (.
+%0(com.app.livraison.service.CommentService"__id*b
+
+__unknown_file (F*D0
+.com.app.livraison.controller.CommentController"
+commentServiceÊÇ
+ (0(
+%1"com.app.livraison.entities.Comment"mcom.app.livraison.service.CommentService#getCommentById(Ljava/lang/Long;)Lcom/app/livraison/entities/Comment;*L
+
+__unknown_file (0
+.
+%0(com.app.livraison.service.CommentService*2
+
+__unknown_file (
+
+idjava.lang.Long2 getCommentById(Ljava/lang/Long;)"6
+ (1*
+(
+%1"com.app.livraison.entities.Comment: 
+" (7
+idjava.lang.LongB20
+.com.app.livraison.controller.CommentControllerH

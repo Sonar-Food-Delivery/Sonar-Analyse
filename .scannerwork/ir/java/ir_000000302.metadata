@@ -1,0 +1,10 @@
+com.app.livraison.service.OrderService#assignOrderToDeliveryPerson(Lcom/app/livraison/entities/Order;)V
+false
+f08fe5b3d8d83c7c204aeca717191096
+com.app.livraison.entities.Delivery#<init>()V
+com.app.livraison.entities.Delivery#instance-init#
+com.app.livraison.service.OrderService#generateTrackingId()Ljava/lang/String;
+==
+!unknownMethod! !unknownMethod!
+findAvailableDeliveryPerson com.app.livraison.service.OrderService#findAvailableDeliveryPerson()Lcom/app/livraison/entities/DeliveryPerson;
+saveDelivery com.app.livraison.service.OrderService#saveDelivery(Lcom/app/livraison/entities/Delivery;)V

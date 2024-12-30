@@ -1,0 +1,14 @@
+
+?com.app.livraison.service.UserService#findAll()Ljava/util/List;~
+tC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/UserService.javaS S("1*Æ
+1T T(¢
+Ÿ
+T T(2
+%0,com.app.livraison.repositorie.UserRepository"__id*Y
+
+__unknown_file (=*;'
+%com.app.livraison.service.UserService"
+userRepository"
+T T((
+""B)'
+%com.app.livraison.service.UserServiceH

@@ -1,0 +1,10 @@
+com.app.livraison.config.JwtAuthenticationFilter#doFilterInternal(LHttpServletRequest;LHttpServletResponse;LFilterChain;)V
+false
+d5b1aa83ec3dd0565ee67c0a47d9ab62
+java.lang.String#startsWith(Ljava/lang/String;)Z
+java.lang.String#substring(I)Ljava/lang/String;
+==
+!unknownMethod! !unknownMethod!
+extractUsername com.app.livraison.service.JwtService#extractUsername(Ljava/lang/String;)Ljava/lang/String;
+isValidToken com.app.livraison.service.JwtService#isValidToken(Ljava/lang/String;LUserDetails;)Ljava/lang/Boolean;
+loadUserByUsername com.app.livraison.service.MyUserDetailService#loadUserByUsername(Ljava/lang/String;)LUserDetails;

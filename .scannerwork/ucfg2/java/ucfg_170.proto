@@ -1,0 +1,16 @@
+
+_com.app.livraison.service.CategoryService#getCategoryById(Ljava/lang/Long;)Ljava/util/Optional;‚
+xC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/CategoryService.java' '(-"1*Ò
+1( ((!®
+«
+( ((!6
+%00com.app.livraison.repositorie.CategoryRepository"__id*a
+
+__unknown_file (E*C+
+)com.app.livraison.service.CategoryService"
+categoryRepository"
+( ((/
+"": 
+'. '(5
+idjava.lang.LongB-+
+)com.app.livraison.service.CategoryServiceH

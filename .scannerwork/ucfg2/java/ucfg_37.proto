@@ -1,0 +1,14 @@
+
+Lcom.app.livraison.service.DeliveryService#getAllDeliveries()Ljava/util/List;‚
+xC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/DeliveryService.java (*"1*Ò
+1 (!®
+«
+ (!6
+%00com.app.livraison.repositorie.DeliveryRepository"__id*a
+
+__unknown_file (E*C+
+)com.app.livraison.service.DeliveryService"
+deliveryRepository"
+ (,
+""B-+
+)com.app.livraison.service.DeliveryServiceH

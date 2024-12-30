@@ -1,0 +1,6 @@
+com.app.livraison.controller.OrderController#createOrder(Lcom/app/livraison/entities/Order;)Lcom/app/livraison/entities/Order;
+false
+58db0bcf66ced24f7fa9cc2f94d7ace2
+==
+assignOrderToDeliveryPerson com.app.livraison.service.OrderService#assignOrderToDeliveryPerson(Lcom/app/livraison/entities/Order;)V
+saveOrder com.app.livraison.service.OrderService#saveOrder(Lcom/app/livraison/entities/Order;)Lcom/app/livraison/entities/Order;

@@ -1,0 +1,6 @@
+com.app.livraison.controller.CategoryController#getCategoriesWithMeals()LResponseEntity;
+false
+558d310d5fa11ea88d08fb47c3aa16c0
+==
+!unknownMethod! !unknownMethod!
+getCategoriesWithMeals com.app.livraison.service.CategoryService#getCategoriesWithMeals()Ljava/util/List;

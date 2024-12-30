@@ -1,0 +1,6 @@
+com.app.livraison.controller.RestaurantController#getAllRestaurants()LResponseEntity;
+false
+93b7d73def44653cfc08e61927fb092b
+==
+!unknownMethod! !unknownMethod!
+getAllRestaurants com.app.livraison.service.RestaurantService#getAllRestaurants()Ljava/util/List;

@@ -1,0 +1,6 @@
+com.app.livraison.service.CategoryService#addCategoryWithMeals(Lcom/app/livraison/entities/Category;)Lcom/app/livraison/entities/Category;
+false
+d4b089c2c66a6f4744776199e30e9b87
+java.util.Optional#ifPresent(Ljava/util/function/Consumer;)V
+==
+!unknownMethod! !unknownMethod!

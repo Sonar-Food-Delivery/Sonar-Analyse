@@ -1,0 +1,5 @@
+com.app.livraison.controller.OrderController#deleteOrder(Ljava/lang/Long;)V
+false
+c82875e48e117ad3ce4ceb75725416ff
+==
+deleteOrder com.app.livraison.service.OrderService#deleteOrder(Ljava/lang/Long;)V

@@ -1,0 +1,5 @@
+com.app.livraison.controller.DeliveryPersonController#deleteDeliveryPerson(Ljava/lang/Long;)V
+false
+8f8141a3eed96be4a773f6b9192d72b8
+==
+deleteDeliveryPerson com.app.livraison.service.DeliveryPersonService#deleteDeliveryPerson(Ljava/lang/Long;)V

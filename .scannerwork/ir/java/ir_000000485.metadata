@@ -1,0 +1,5 @@
+com.app.livraison.service.CategoryService#getRestaurantsByCategoryId(Ljava/lang/Long;)Ljava/util/List;
+false
+5aadf5dd870c0ec81e7ed3c4c7c59ab4
+==
+findRestaurantsByCategoryId com.app.livraison.repositorie.CategoryRepository#findRestaurantsByCategoryId(Ljava/lang/Long;)Ljava/util/List;

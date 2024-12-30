@@ -1,0 +1,7 @@
+com.app.livraison.Controllers.RestaurantControllerTest#testCreateRestaurant()V
+false
+59f31fba8c75e35e7cc4d36694f2402c
+==
+!unknownMethod! !unknownMethod!
+createRestaurant com.app.livraison.controller.RestaurantController#createRestaurant(Lcom/app/livraison/entities/Restaurant;)LResponseEntity;
+saveRestaurant com.app.livraison.service.RestaurantService#saveRestaurant(Lcom/app/livraison/entities/Restaurant;)Lcom/app/livraison/entities/Restaurant;

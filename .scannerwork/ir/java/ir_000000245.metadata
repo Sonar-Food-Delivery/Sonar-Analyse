@@ -1,0 +1,5 @@
+com.app.livraison.controller.CommentController#createComment(Lcom/app/livraison/entities/Comment;)Lcom/app/livraison/entities/Comment;
+false
+f7ae4d6e86d5c95761b489db210d3e05
+==
+saveComment com.app.livraison.service.CommentService#saveComment(Lcom/app/livraison/entities/Comment;)Lcom/app/livraison/entities/Comment;

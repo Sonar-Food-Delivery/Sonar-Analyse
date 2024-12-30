@@ -1,0 +1,16 @@
+
+pcom.app.livraison.service.DeliveryService#getDeliveryById(Ljava/lang/Long;)Lcom/app/livraison/entities/Delivery;‚
+xC:/Users/ilyas/OneDrive/Bureau/Sonar-Delivery/Food_delivery/src/main/java/com/app/livraison/service/DeliveryService.java (#"1*Ò
+1 (!®
+«
+ (!6
+%00com.app.livraison.repositorie.DeliveryRepository"__id*a
+
+__unknown_file (E*C+
+)com.app.livraison.service.DeliveryService"
+deliveryRepository"
+ (<
+"": 
+$ (+
+idjava.lang.LongB-+
+)com.app.livraison.service.DeliveryServiceH
